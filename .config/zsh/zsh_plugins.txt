@@ -1,0 +1,2 @@
+mattmc3/zshrc.d
+romkatv/powerlevel10k
