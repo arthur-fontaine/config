@@ -1,7 +1,7 @@
 ## Initial Settings
 
 1. Switch to qwerty
-2. Disable natural scrolling
+2. Disable natural scrolling and 24-hour in System Preferences
 3. Update the Mac
 
 ## Applications
