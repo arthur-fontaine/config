@@ -1,2 +1,11 @@
+zsh-users/zsh-completions
+belak/zsh-utils path:completion
+
 mattmc3/zshrc.d
+
 romkatv/powerlevel10k
+
+Aloxaf/fzf-tab
+zsh-users/zsh-autosuggestions
+
+zdharma-continuum/fast-syntax-highlighting kind:defer
