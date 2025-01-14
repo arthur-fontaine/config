@@ -20,7 +20,11 @@
 
 1. In the CLI, tap `git` to install Git (macOS will automatically open a popup to install the developer tools)
 2. Run `brew install antidote fzf gh`
-3. Install [`cps`](https://github.com/yongkangchen/cps)
+3. Install [Volta](https://volta.sh/)
+    ```bash
+    curl https://get.volta.sh | bash
+    ```
+4. Install [`cps`](https://github.com/yongkangchen/cps)
     ```bash
     curl https://raw.githubusercontent.com/yongkangchen/cps/main/cps -o cps && chmod +x cps && sudo mv cps /usr/local/bin
     ```
