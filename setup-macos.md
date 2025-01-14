@@ -24,7 +24,8 @@
     ```bash
     curl https://get.volta.sh | bash
     ```
-4. Install [`cps`](https://github.com/yongkangchen/cps)
+4. Install [Golang](https://go.dev/dl/)
+5. Install [`cps`](https://github.com/yongkangchen/cps)
     ```bash
     curl https://raw.githubusercontent.com/yongkangchen/cps/main/cps -o cps && chmod +x cps && sudo mv cps /usr/local/bin
     ```
