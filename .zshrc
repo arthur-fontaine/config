@@ -7,12 +7,12 @@ fi
 
 
 # Set the zsh config directory
-export ZSHRCD=~/.config/zshrc.d
+export ZSHRCD=~/.config/zsh/zshrc.d
 
 
 # Activate Antidote
 source /usr/local/opt/antidote/share/antidote/antidote.zsh
-antidote load
+antidote load ~/.config/zsh/zsh_plugins.txt
 
 
 # The rest of the config is in the ./.config/zshrc.d directory
