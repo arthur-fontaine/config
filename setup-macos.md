@@ -14,13 +14,16 @@
     2. [The extension](https://chromewebstore.google.com/detail/1password-%E2%80%93-gestionnaire/aeblfdkhhhdcdjpifhhbdiojplfjncoa)
     3. [The CLI](https://developer.1password.com/docs/cli/get-started/)
 5. Download [Ghostty](https://ghostty.org/download)
-6. In the CLI, tap `git` to install Git (macOS will automatically open a popup to install the developer tools)
-7. Download [VSCode](https://code.visualstudio.com/download)
-8. Run `brew install antidote fzf gh`
-9. Install [`cps`](https://github.com/yongkangchen/cps)
-    1. ```bash
-       curl https://raw.githubusercontent.com/yongkangchen/cps/main/cps -o cps && chmod +x cps && sudo mv cps /usr/local/bin
-       ```
+6. Download [VSCode](https://code.visualstudio.com/download)
+
+## CLIs
+
+1. In the CLI, tap `git` to install Git (macOS will automatically open a popup to install the developer tools)
+2. Run `brew install antidote fzf gh`
+3. Install [`cps`](https://github.com/yongkangchen/cps)
+    ```bash
+    curl https://raw.githubusercontent.com/yongkangchen/cps/main/cps -o cps && chmod +x cps && sudo mv cps /usr/local/bin
+    ```
 
 ## Others
 
