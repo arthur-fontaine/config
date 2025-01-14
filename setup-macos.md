@@ -37,3 +37,4 @@
        sudo pico /etc/pam.d/sudo_local
        ```
     3. Uncomment the line
+2. Download the [.config](https://download-directory.github.io/?url=https%3a%2f%2fgithub.com%2farthur-fontaine%2fconfig%2ftree%2fmain%2f.config) directory
