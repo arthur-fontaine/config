@@ -16,6 +16,7 @@
 5. Download [Ghostty](https://ghostty.org/download)
 6. In the CLI, tap `git` to install Git (macOS will automatically open a popup to install the developer tools)
 7. Download [VSCode](https://code.visualstudio.com/download)
+8. Run `brew install antidote fzf`
 
 ## Others
 
