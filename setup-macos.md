@@ -46,3 +46,13 @@
        ```
     3. Uncomment the line
 2. Download the [.config](https://download-directory.github.io/?url=https%3a%2f%2fgithub.com%2farthur-fontaine%2fconfig%2ftree%2fmain%2f.config) directory and put it at `~/.config`
+
+## Shortcuts
+
+### Raycast
+
+#### Search Emoji & Symbols
+
+| Shortcut | Description | How to? |
+| --- | --- | --- |
+| `Ctrl+Space` | Search Emoji & Symbols | Open Raycast parameters, go to Extensions and search `emoji`. Then, set the shortcut to `Ctrl+Space`. If you can't, you need to disable a specific parameter in System Preferences (check https://github.com/spring-projects/sts4/issues/517#issuecomment-668635598) |
