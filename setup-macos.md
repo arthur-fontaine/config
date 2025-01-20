@@ -19,7 +19,7 @@
 ## CLIs
 
 1. In the CLI, tap `git` to install Git (macOS will automatically open a popup to install the developer tools)
-2. Run `brew install antidote fzf gh httpie fx`
+2. Run `brew install antidote fzf gh httpie fx pyenv`
 3. Install [Volta](https://volta.sh/)
     ```bash
     curl https://get.volta.sh | bash
