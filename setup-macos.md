@@ -63,6 +63,7 @@
        conflictstyle = zdiff3
    EOF
    ```
+4. If you have servers that you connect to with SSH, go in your `/etc/hosts` and name them. You will then be able to connect to your server with `ssh user@servername`.
 
 ## Shortcuts
 
