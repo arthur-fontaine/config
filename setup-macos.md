@@ -46,6 +46,23 @@
        ```
     3. Uncomment the line
 2. Download the [.config](https://download-directory.github.io/?url=https%3a%2f%2fgithub.com%2farthur-fontaine%2fconfig%2ftree%2fmain%2f.config) directory and put it at `~/.config`
+3. Configure Git to use Delta
+   ```bash
+   cat <<EOF >> ~/.gitconfig
+   [core]
+       pager = delta
+   
+   [interactive]
+       diffFilter = delta --color-only
+   
+   [delta]
+       navigate = true  # use n and N to move between diff sections
+       dark = true      # or light = true, or omit for auto-detection
+   
+   [merge]
+       conflictstyle = zdiff3
+   EOF
+   ```
 
 ## Shortcuts
 
