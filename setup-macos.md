@@ -29,6 +29,10 @@
     ```bash
     curl https://raw.githubusercontent.com/yongkangchen/cps/main/cps -o cps && chmod +x cps && sudo mv cps /usr/local/bin
     ```
+6. Install [uv](https://docs.astral.sh/uv/)
+   ```bash
+   curl -LsSf https://astral.sh/uv/install.sh | sh
+   ```
 
 ## Others
 
