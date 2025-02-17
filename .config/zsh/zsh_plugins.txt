@@ -9,3 +9,5 @@ Aloxaf/fzf-tab
 zsh-users/zsh-autosuggestions
 
 zdharma-continuum/fast-syntax-highlighting kind:defer
+agkozak/zsh-z kind:defer
+zsh-users/zsh-history-substring-search kind:defer
