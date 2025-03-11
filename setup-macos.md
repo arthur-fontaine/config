@@ -15,6 +15,7 @@
     3. [The CLI](https://developer.1password.com/docs/cli/get-started/)
 5. Download [Ghostty](https://ghostty.org/download)
 6. Download [VSCode](https://code.visualstudio.com/download)
+7. Download [Keka](https://d.keka.io/) and the [Keka helper](https://d.keka.io/helper)
 
 ## CLIs
 
