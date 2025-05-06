@@ -1,6 +1,6 @@
 ## System Preferences
 
-1. Switch to qwerty
+1. Switch to Universal (Unicode Hex)
 2. Disable natural scrolling and 24-hour
 3. Update the Mac
 
